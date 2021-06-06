@@ -2,3 +2,5 @@ build/
 *.userdb/
 plum/
 .DS_Store
+installation.yaml
+user.yaml
